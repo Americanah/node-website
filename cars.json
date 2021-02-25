@@ -1,0 +1,60 @@
+{
+  "profiles": [
+    {
+      "firstname": "GTS",
+      "lastname": "Ferrari",
+      "bio":
+        "The Ferrari 308 GTB berlinetta and targa topped 308 GTS are V8 mid-engined, two-seater sports cars manufactured by the Italian company Ferrari from 1975 to 1985",
+
+      "tagline": "Fast, Efficient, Power",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "blue.jpg",
+      "id": "yellow"
+    },
+
+    {
+      "firstname": "Lamborgini",
+      "lastname": "Concept",
+      "bio":
+        "The Lamborghini pregunta aka Heuliez pregunta Roadster is a supercar concept car produced by Lamborghini. It was introduced at the 1998 Paris Motor Show.",
+      "tagline": "Powerful, Efficient, Smart",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "red.jpg",
+      "id": "blue"
+    },
+
+    {
+      "firstname": "Dodge",
+      "lastname": "Durango",
+      "bio":
+        "The Dodge Durango is a three-row mid-size sport utility vehicle produced by Dodge. The first two generations were very similar in that both were based.",
+      "tagline": "Speed, Control, Authority",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "yellow.jpg",
+      "id": "red"
+    },
+
+    {
+      "firstname": "Aston",
+      "lastname": "Martins",
+      "bio":
+        "Standard-bearer for an all-new generation of cars, DB11 is the most powerful and efficient 'DB' production model in Aston Martin's history. Power BHP. 503. Top Speed MPH. 187.",
+      "tagline": "Speed, Control, Style",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "black.jpg",
+      "id": "black"
+    },
+
+    {
+      "firstname": "Chervolet",
+      "lastname": "Camaro",
+      "bio":
+        "Explore the high-performance thrills of the 2021 Chevy Camaro sports car with quick-to-respond handling and unmistakable styling.",
+      "tagline": "Hybrid, Style, Elegance",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "pink.jpg",
+      "id": "black"
+    }
+
+  ]
+}
